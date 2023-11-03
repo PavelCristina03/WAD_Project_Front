@@ -1,8 +1,8 @@
-// File: C:\Users\Cristina\OneDrive\Desktop\wad-store\eventbooking-store\app\(routes)\category\[categoryId]\page.tsx
-import * as entry from '../../../../../../app/(routes)/category/[categoryId]/page.js'
+// File: C:\Users\Cristina\OneDrive\Desktop\wad-store\eventbooking-store\app\(routes)\page.tsx
+import * as entry from '../../../../app/(routes)/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
-type TEntry = typeof import('../../../../../../app/(routes)/category/[categoryId]/page.js')
+type TEntry = typeof import('../../../../app/(routes)/page.js')
 
 // Check that the entry is a valid entry
 checkFields<Diff<{

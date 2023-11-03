@@ -41,16 +41,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
-/***/ "(ssr)/./node_modules/lucide-react/dist/esm/icons/plus.js":
-/*!**********************************************************!*\
-  !*** ./node_modules/lucide-react/dist/esm/icons/plus.js ***!
-  \**********************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Plus)\n/* harmony export */ });\n/* harmony import */ var _createLucideIcon_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../createLucideIcon.js */ \"(ssr)/./node_modules/lucide-react/dist/esm/createLucideIcon.js\");\n/**\n * lucide-react v0.291.0 - ISC\n */\n\n\n\nconst Plus = (0,_createLucideIcon_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(\"Plus\", [\n  [\"path\", { d: \"M5 12h14\", key: \"1ays0h\" }],\n  [\"path\", { d: \"M12 5v14\", key: \"s699le\" }]\n]);\n\n\n//# sourceMappingURL=plus.js.map\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbHVjaWRlLXJlYWN0L2Rpc3QvZXNtL2ljb25zL3BsdXMuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7QUFBQTtBQUNBO0FBQ0E7O0FBRXNEOztBQUV0RCxhQUFhLGdFQUFnQjtBQUM3QixhQUFhLDhCQUE4QjtBQUMzQyxhQUFhLDhCQUE4QjtBQUMzQzs7QUFFMkI7QUFDM0IiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9ldmVudGJvb2tpbmctc3RvcmUvLi9ub2RlX21vZHVsZXMvbHVjaWRlLXJlYWN0L2Rpc3QvZXNtL2ljb25zL3BsdXMuanM/OGE4NCJdLCJzb3VyY2VzQ29udGVudCI6WyIvKipcbiAqIGx1Y2lkZS1yZWFjdCB2MC4yOTEuMCAtIElTQ1xuICovXG5cbmltcG9ydCBjcmVhdGVMdWNpZGVJY29uIGZyb20gJy4uL2NyZWF0ZUx1Y2lkZUljb24uanMnO1xuXG5jb25zdCBQbHVzID0gY3JlYXRlTHVjaWRlSWNvbihcIlBsdXNcIiwgW1xuICBbXCJwYXRoXCIsIHsgZDogXCJNNSAxMmgxNFwiLCBrZXk6IFwiMWF5czBoXCIgfV0sXG4gIFtcInBhdGhcIiwgeyBkOiBcIk0xMiA1djE0XCIsIGtleTogXCJzNjk5bGVcIiB9XVxuXSk7XG5cbmV4cG9ydCB7IFBsdXMgYXMgZGVmYXVsdCB9O1xuLy8jIHNvdXJjZU1hcHBpbmdVUkw9cGx1cy5qcy5tYXBcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/lucide-react/dist/esm/icons/plus.js\n");
-
-/***/ }),
-
 /***/ "(ssr)/./node_modules/lucide-react/dist/esm/icons/shopping-bag.js":
 /*!******************************************************************!*\
   !*** ./node_modules/lucide-react/dist/esm/icons/shopping-bag.js ***!
