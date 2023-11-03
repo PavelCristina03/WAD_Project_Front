@@ -32,7 +32,9 @@ const Button = forwardRef<HTMLButtonElement, ButtonProps>(({
             `,
             className
         )}
-            ref={ref}
+        
+        disabled={disabled}
+        ref={ref}
             {...props}
         >
             {children}
